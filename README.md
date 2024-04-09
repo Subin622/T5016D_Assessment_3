@@ -1,2 +1,3 @@
 # T5016D_Assessment_3
-This is my first Git Repository,.
+This is my first Git Repository.
+Auther- Subin Shrestha

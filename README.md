@@ -27,7 +27,7 @@ Use the Ticket class' print_statistics() work to print ticket statistics.
 To print specific information about each ticket, use the print_ticket() function on the ticket object.
 
 Contributors
-[Subin Shresetha]
+[Subin Shrestha]
 
 License
 This project has been licensed under the MIT Licence; read the LICENCE file for additional information.
